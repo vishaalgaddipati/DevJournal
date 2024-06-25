@@ -17,3 +17,5 @@ dev-specific
 - Refactored JS code and added unit tests
 - Worked on meeting notes, ADRs, and PR reviews
 - Worked on brainstorming via Miro: user stories, feature list, and inspirations
+
+Here is the link to the locally forked repo: https://github.com/vishaalgaddipati/cse110-sp24-group5
